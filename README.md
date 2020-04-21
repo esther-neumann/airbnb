@@ -2,11 +2,11 @@
 
 # Table of Contents
 
-1. [Installation] (https://github.com/esther-neumann/airbnb/edit/master/README.md#installation)
-1. [Project Motivation] (https://github.com/esther-neumann/airbnb/edit/master/README.md#project-motivation)
-1. [File Descriptions] (https://github.com/esther-neumann/airbnb/edit/master/README.md#file-description)
-1. [Results] (https://github.com/esther-neumann/airbnb/edit/master/README.md#results)
-1. [Licensing, Authors, and Acknowledgements] (https://github.com/esther-neumann/airbnb/edit/master/README.md#licensing-authors-acknowledgements)
+1. [Installation](https://github.com/esther-neumann/airbnb/master/README.md#installation)
+1. [Project Motivation](https://github.com/esther-neumann/airbnb/master/README.md#project-motivation)
+1. [File Descriptions](https://github.com/esther-neumann/airbnb/master/README.md#file-description)
+1. [Results](https://github.com/esther-neumann/airbnb/master/README.md#results)
+1. [Licensing, Authors, and Acknowledgements](https://github.com/esther-neumann/airbnb/master/README.md#licensing-authors-acknowledgements)
 
 # Installation
 
