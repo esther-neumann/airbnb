@@ -5,8 +5,8 @@
 1. [Installation](https://github.com/esther-neumann/airbnb/blob/master/README.md#installation)
 1. [Project Motivation](https://github.com/esther-neumann/airbnb/blob/master/README.md#project-motivation)
 1. [File Descriptions](https://github.com/esther-neumann/airbnb/blob/master/README.md#file-descriptions)
-1. [Results]((https://github.com/esther-neumann/airbnb/blob/master/README.md#results))
-1. [Licensing, Authors, and Acknowledgements]((https://github.com/esther-neumann/airbnb/blob/master/README.md#licensing-authors-acknowledgements)
+1. [Results](https://github.com/esther-neumann/airbnb/blob/master/README.md#results)
+1. [Licensing, Authors, and Acknowledgements](https://github.com/esther-neumann/airbnb/blob/master/README.md#licensing-authors-acknowledgements)
 
 # Installation
 
