@@ -1,17 +1,18 @@
-# airbnb
-repository for Udacity AirBnB project
+# AirBnB Berlin vs Munich comparison
 
 # Table of Contents
 
-    Installation
-    Project Motivation
-    File Descriptions
-    Results
-    Licensing, Authors, and Acknowledgements
+1. [Installation] (https://github.com/esther-neumann/airbnb/edit/master/README.md#installation)
+1. [Project Motivation] (https://github.com/esther-neumann/airbnb/edit/master/README.md#project-motivation)
+1. [File Descriptions] (https://github.com/esther-neumann/airbnb/edit/master/README.md#file-description)
+1. [Results] (https://github.com/esther-neumann/airbnb/edit/master/README.md#results)
+1. [Licensing, Authors, and Acknowledgements] (https://github.com/esther-neumann/airbnb/edit/master/README.md#licensing-authors-acknowledgements)
 
 # Installation
 
 You will need the standard data science libraries found in the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
+
+# Project Motivation
 
 For this project, I was interestested in analyzing data from AirBnB homes located in Berlin and Munich. Specifically, I looked at the following questions:
 
