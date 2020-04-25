@@ -30,7 +30,7 @@ The files which were used can be found here: http://insideairbnb.com/get-the-dat
   
 # Results
 
-The main findings of the code can be found at the blog post available here.
+The main findings of the code can be found at the blog post available [here](https://medium.com/@frauestherneumann/airbnb-battle-702db3a27637).
 
 # Licensing, Authors, Acknowledgements
 
